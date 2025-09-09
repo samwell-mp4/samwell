@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Chaves de Torneio",
+  "description": "Um aplicativo completo para criar e gerenciar chaves de torneios de batalha com 8, 16 ou 32 participantes, com integração em tempo real com o Supabase.",
+  "requestFramePermissions": []
+}
